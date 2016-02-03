@@ -1,0 +1,4 @@
+com/activiti/extension/bean/DFUserService.class
+com/activiti/extension/bean/ResumeService.class
+com/activiti/extension/bean/HelloWorldBean.class
+com/activiti/extension/bean/OutcomeBean.class
